@@ -26,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callewise&show_icons=true&locale=en" alt="callewise" /></p>
 
-<p align="right"><a href="https://app.daily.dev/callewise"><img src="https://github.com/callewise/callewise/blob/master/devcard.svg" width="400" alt="Demy's Workspace's Dev Card"/></a>
-
+<p align="right"><a href="https://app.daily.dev/callewise"><img src="https://api.daily.dev/devcards/43ae3dd3563b4c7b99aebb72b2d57ad3.png?r=7d1" width="400" alt="Demy's Workspace's Dev Card"/></a>
